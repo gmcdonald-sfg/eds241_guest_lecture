@@ -26,7 +26,130 @@ class: inverse, center, middle
 
 ---
 
-# Hello World
+# Catalyzing sustainable fisheries management through behavior change interventions  
+
+Gavin McDonald, Molly Wilson, Diogo Veríssimo, Rebecca Twohey, Michaela Clemence, Dean Apistar, Stephen Box, Paul Butler, Fel Cesar Cadiz, Stuart J Campbell, Courtney Cox, Micah Effron, Steve Gaines, Raymond Jakub, Roquelito H Mancao, Pablo T Rojas, Rocky Sanchez Tirona, Gabriel Vianna
+
+[Conservation Biology 2020](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13475)
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# The blue paradox: Preemptive overfishing in marine reserves
+
+Grant R McDermott, Kyle C Meng, Gavin G McDonald, Christopher J Costello 
+
+[Proceedings of the National Academy of Sciences
+ (PNAS) 2019](https://www.pnas.org/content/116/12/5319.short)
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# The economic and environmental impact of modern piracy on global shipping
+
+Renato Molina, Grant McDermott, Gavin McDonald
+
+[In prep](https://renatomolinah.com/assets/docs/piracy.pdf)
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# Can demand-Side interventions rebuild global fisheries?
+
+Olivier Deschenes, Christopher Costello, Gavin McDonald, Michael C. Melnychuk, Anouch Missirian
+
+*In prep*
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# Do Renewable Portfolio Standards increase utility-scale wind and solar energy capactiy?
+
+Chris Mally, Olivier Deschenes, Gavin McDonald
+
+*In prep*
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# Does utility-scale wind and solar energy capactiy increase jobs and income?
+
+Chris Mally, Olivier Deschenes, Gavin McDonald
+
+*In prep*
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
+
+---
+
+# Global and regional crop price elasticities for land-use change: What will be the impact of responses to incentives for the adoption of climate-friendly land use practices?
+
+Kathy Baylis, Robert Heilmayr, Andrew Plantinga, Catharina Latka, Gavin McDonald
+
+*In prep*
+
+Research question: 
+
+---
+
+Empirical approach
+
+---
+
+Results
 
 ---
 class: inverse, center, middle
@@ -35,7 +158,9 @@ class: inverse, center, middle
 
 ---
 
-# Hello World
+* [fixest:: Fast and user-friendly fixed-effects estimation in R](https://lrberge.github.io/fixest/)
+
+* [Translating Stata to R and vice-versa](https://stata2r.github.io)
 
 ---
 class: center, middle
@@ -43,3 +168,5 @@ class: center, middle
 # Thanks!
 
 gmcdonald@bren.ucsb.edu
+
+https://gmcdonald-sfg.github.io/eds241_guest_lecture/#1
