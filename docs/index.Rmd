@@ -101,7 +101,7 @@ Results
 
 # Do Renewable Portfolio Standards increase utility-scale wind and solar energy capactiy?
 
-Chris Mally, Olivier Deschenes, Gavin McDonald
+Chris Malloy, Gavin McDonald, Olivier Deschenes
 
 *In prep*
 
@@ -119,7 +119,7 @@ Results
 
 # Does utility-scale wind and solar energy capactiy increase jobs and income?
 
-Chris Mally, Olivier Deschenes, Gavin McDonald
+Chris Malloy, Gavin McDonald, Olivier Deschenes
 
 *In prep*
 
@@ -169,4 +169,4 @@ class: center, middle
 
 gmcdonald@bren.ucsb.edu
 
-https://gmcdonald-sfg.github.io/eds241_guest_lecture/#1
+https://gmcdonald-sfg.github.io/eds241_guest_lecture
